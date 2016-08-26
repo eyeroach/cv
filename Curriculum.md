@@ -1,54 +1,236 @@
 
-# Ekaitz Zarraga
-
-- Bilbao, Biscay, Spain
-- [ekaitzzarraga@gmail.com][e-mail]
+# Lavizzari Torino, Marcelo
+![Foto](https://www.facebook.com/photo.php?fbid=1103331926405573&set=a.100844243321018.1271.100001863273329&type=3&theater)
+ San Martin, Mendoza, Argentina
+- [marcelolavizzari@gmail.com][e-mail]
 - [Personal blog about technology][blogPersonal]
 
 ---
 
-## Intro
-I am a telecommunication Engineer born in 1991.
+## Introducción
 
-I started getting into Free Software and programming because it is the easiest
-way for me to develop new things and use my creativity but, at the same time, I
-have been working on electronics, design and arts – most of the times learning
-by myself diving in the Internet. This includes: drawing, painting, sculpting,
-circuit design, programming, 3D design and modelling, creative writing and
-more.
+Soy administrador de bases de datos y desarrollador de sistemas, nacido en 1969.
 
-I practiced martial arts (judo, aikido and karate) for years.
+## Estudios Universitarios y de posgrado en el area de Educación
+Profesor de EGB, graduado en la Facultad de Formación Docente, de la Universidad Nacional de Cuyo, Mendoza.
+Licenciado en Gestión Institucional y diseño curricular en la Facultad de Formación Docente de la Universidad Nacional de Cuyo
+Doctorando en Educación, en la Facultad de Filosofía y letras de la Universidad Nacional de Cuyo
 
+## Estudios universitarios realizados en Informática
 
----
+Analista de sistema (inconclusos) en la Fundación BUCI (actualmente Universidad Maza)
+Diplomatura Ingeniero Experto en Sistemas - Central Tech - Buenos Aires
 
-## Skills
+Comencé a los 13 años de edad, con la música, y a los 15 años mientras me encontraba realizando cursos básicos de computación que podía desarrollar pequeños
+sistemas en qbasic, en fortram, etc. que me mostraran la enorme cantidad de variaciones de escalas y acordes que podia realizar en el bajo, y a su vez, con un pequeño speacker, 
+escuchar estas variaciones, desde entonce me convertí en un entusiaste aprendiz de las nuevas tecnologias y el desarrollo de sistemas, obviamente además de la música.
 
-### Languages
-- English: *Conversational*.
-- Euskera: *Fluent*.
-- Español: *Native language*.
+## Mis aficiones
+Aprendo muy de a poco y humildemente el yoga, estudio el  budismo desde hace poco tiempo.
+Práctico el vegetarianismo, no fumo , ni tomo alcohol
 
-
-### Technical Skills
-> GNU-Linux, electronics, telecommunication, programming, prototyping, design,
-> PCB-design, 3D-design
-
-### Soft Skills
-> Public speaking, Teaching/Mentoring, Creative Problem Solving, Creativity,
-> Documentation, Research, Learning
 
 ---
 
-## Experience
 
-### R&D Engineer
+### Lenguajes
+- English: *2.2*.
+- Frances: *Curso segundo Nivel.
+- Aleman: Nivel 1
+- Español: *Lenguaje Nativo*.
 
-[Fon][fon], *Current*
 
-> **Skills:** c, java, python, javascript, css, perl, bash, gnu-linux, openwrt,
-> wifi, amazon-web-services, leaflet, google-maps, postgresql, postgis,
-> apache-spark
+
+## Cursos realizados en los últimos 4 años 
+- Nombro estos cursos ya que los anteriores cursos en la actualidad, pueden parecer obsoletos
+
+## Realizados en Central Tech International ( Buenos Aires, Argentina )
+
+# Cursos de Management
+
+> Curso de PMP Project Management
+> Curso de SCRUM CSD Developer
+> Curso de ITIL Fundamentos
+
+# Cursos de Programación
+
+> Curso de Programación en C#
+> Curso de HTML5 CSS3 y JavaScript
+> Curso de Programación ASP.NET MVC
+> Curso de Programación en Java SE
+> Curso de Programación en Java Enterprise JEE
+> Curso de Programación en PHP y MySQL
+> Curso de Desarrollo de Microsoft SQL Server
+> Curso de Consultas TSQL a Microsoft SQL Server
+> Curso de Programación para Android
+> Curso de Programación para iPhone
+
+# Cursos de Administración
+
+> Carrera de Administración de Linux LPI
+> Carrera Profesional MCSA Microsoft Windows Server
+> Curso de Administración de Microsoft SQL Server
+> Curso de Administración de Oracle Database
+> Curso de Administración de Asterisk
+> Curso de Administración de SharePoint
+> Curso de Administración de Exchange
+
+# Cursos de Virtualizacion
+
+> Curso de Administración de VMWare vSphere
+
+# Cursos de Seguridad
+
+> Curso de CEH Ethical Hacking
+> Curso de CISSP
+
+# Cursos de Redes
+
+> Carrera Profesional Cisco CCNA
+> Carrera Profesional Cisco CCNP
+
+## Realizados en Platzi (Colombia)
+
+# Carrera de Backend Profesional
+> Curso profesional de Git y Github
+> Curso de algoritmo y patrones de diseños 
+> Curso de Python y Dganjo
+> Curso gratis de Ruby
+> Curso de Ruby on rails
+> Curso Profesional de node.js y javascript
+> Curso de PHP con laravel
+> Curso de Java gratis
+> Curso profesional de Java
+> Curso Curso de programación en GO
+> Curso de GO avanzado
+> Curso gratis de c#
+> Curso profesional de C# y ASP.net
+> Curso Esencial de Wordpress
+
+# Carrera de Frontend Profesional
+> Curso de desarrollo web online
+> Curso de responsive design
+> Curso definitivo de javascript
+> Curso de javascript y jQuery
+> Curso Profesional de React.js
+> Diseño web con PostCSS, el futuro de CSS
+> Curso de Polymer
+> Curso de Angular.js
+
+# Carrera de GOOGLE FULLSTACK DEVELOPER
+> Curso de programción en android
+> Curso de diseño de interfaces moviles
+> Curso de android
+
+## Carrera de Administración de servidores y devops
+> Introducción a Linux
+> Curso de amazon-web-services 
+> Introducción a terminal y linea de comandos
+> Curso de azure
+> Curso de Docker
+> Curso de Heroku
+> Curso de Rackspace
+
+# Carrera de bases de datos
+> Curso de Sql y mysql
+> Curso de postgres 
+
+
+### Aficionado por la cocina
+## Actualmete estudiando en Escuela Internacional Islas Malvinas
+> Ayte. de Cocina
+> Cocinero junior
+
+
+## Cursos de Cocina
+> Curso de panadería salada ( Escuela Internacional Islas Malvinas )
+> Curso de panadería dulce  ( Escuela Internacional Islas Malvinas )
+
+---
+
+
+## Experiencia en IT
+
+[1996][2014]*
+
+> Creación primer sitio en internet del Servicio Penitenciario Mendoza
+> http://www.losandes.com.ar/noticia/puntonet-87262 (1 de octubre de 2003)
+> Desarrollo y administración de base de datos de personas privadas de su libertad ( ingreso, condena, tiempo de detención,
+  conducta, concepto, trabajo, educación, sanidad, psiología, trabajo social, etc.)
+> Desarrollo y administración de la primer base de datos de RR.HH. del Servicio Penitenciario.
+> Creación de la primer Intranet del Servicio Penitenciario, sistemas sobre seguimiento de la condena,
+  de las personas privadas de su libertad.
+> Desarrollador y colaborador del primer Sistema de RR.HH. del Servicio Penitenciario
+> Desarrollador y colaborador Sistema aid.net de mesas de entradas
+
+
+[2014][-], *Actualmente
+
+## Freelance 
+# Consultor de seguridad informática
+
+> Manejo de Sistemas Operativos Windows, Linux, UNIX.
+> Revisión de Permisos en File System.
+> Diagramación / Análisis de la estructura de archivos y carpetas.
+> Utilización / Configuración de herramientas de auditoría.
+> Conocimientos de Scripting.
+> Manejo y conocimientos de Cuentas de Usuarios y de Aplicación.
+> Lectura y comprensión de  Visor de Eventos y registro de Windows.
+> Conocimientos de Base de Datos (funcionamiento y ejecución Querys).
+> Conocimientos de TCP/IP y protocolos de comunicación.
+> Excelente Redacción.
+> Personalidad Proactiva.
+> Capacidad de criterio y Análisis.
+> Conocimiento de Normativas ISO 27001.
+> Redacción de informes de Riesgos / Planes de mitigación.
+
+# Frontend Profesional
+## Desarrollo de web Online
+## JavaScript y jquery
+> **Skills:**React.js, polymer, angular.js, bootstrap y Foundation
+
+# Backend Profesional
+## Python y django
+## Ruby on rails
+## GO
+## Node.js
+> **Skills:**PHP, Java, asp.net, wordpress,github.
+
+
+# Administración de servidores y Devops 
+## Amazon web Services
+## Azure
+## Docker
+## Heroku
+## Rackspace
+> **Skills:**linux
+
+
+# Bases de datos  
+## Sqlserver 2012
+## SQL y mysql
+## PostgreSQL
+## MongoDB y redis
+
+> **Skills:**Administrar Base de Datos (productivas y de prueba).Mejorar y optimizar las bases de datos. .Soporte Técnico (implemetación de soluciones).
+Optimización y tunning de procesos de extracción y consulta de información.Monitorear y probar el performance de las bases de datos.Conocimientos en Administración y
+Configuración de Storage para Bases de Datos.
+
+
+## Experiencia en Educación
+
+# Jefe de Educación en Complejos Penitenciarios
+
+
+> Creación de radio-escuela aires de cacheuta, Complejo Almafuerte
+> www.myspace.com/radioairesdecacheuta
+> Creación de TV Abierta Almafuerte ( primer canal de televisión en una carcel, en sudamerica )
+> http://archivo.losandes.com.ar/notas/2011/5/27/penal-almafuerte-primero-canal-propio-570691.asp
+> Revista Fuertes de Alma, escrita por personas privadas de su libertad.
+> https://issuu.com/marcelolavizzari/docs/revistafuertesdealmanro4
+> Talleres de recreación: http://www.mdzol.com/nota/331379-la-vida-es-una-tremenda-porqueria-tragica-pero-que-hermosa/
+> www.myspace.com/poblacionhiphop
+> Presentación Impresora 3D, para el desarrollo de productos artesanales creados por personas privadas en libertad ( sin desarrollarse )
 
 Research & Development engineer in Wifi related company.
 
@@ -60,56 +242,7 @@ Research & Development engineer in Wifi related company.
 * Work in an English speaking environment.
 
 
-
-### VoIP technician
-
-[Irontec][irontec], *August 2014 - April 2015*
-
-> **Skills:** debian, gnu-linux, sip, voip, nagios, ansible, perl, python,
-> pyqt, c, bash, sysadmin, helpdesk, mysql, php
-
-VoIP system management, maintenance, and development.
-
-* Use and management of [IvozNG][ivoz] solution, based on Debian, Asterisk,
-  MySQL and PHP.
-* Issue handling and problem solving. Helpdesk.
-* Linux systems administration. Scripting, automation, maintenance.
-* VoIP hardware management.
-* Minor research and development jobs.
-
 ---
+[e-mail]: mailto://marcelolavizzari@gmail.com
+[twitter]: @eyeroach69 
 
-## Education
-
-### M. Sc. Telecomunications Engineer
-
-The Faculty of Engineering in Bilbao, University of the Basque Country UPV/EHU,
-*2009 – 2014*
-
-> **Skills:** c, c++, java, qt, qml, latex, telecommunication, electronics,
-> signal-processing, networking, linux, kde
-
-#### Studies
-
-Mainly focused on **electronics** and **computer science**.  
-Ranked 4 out of 61.
-
-#### Final project
-
-> "Renovation of the User Interface of KDE-Telepathy Audio and Video Call
-> module"
-
-* Migration of the ktp-call-ui module to QML.
-* C++ development (Qt, QML, KDE-libraries).
-* Work with the KDE community on a real open source project.
-* [Project included in 0.9.0 version of the software][davidBlog]
-
-
----
-
-[blogPersonal]: http://pfctelepathy.wordpress.com
-[davidBlog]: http://blog.davidedmundson.co.uk/blog/ktp_0.9
-[e-mail]: mailto://ekaitzzarraga@gmail.com
-[fon]: https://fon.com/
-[irontec]: https://www.irontec.com/
-[ivoz]: https://www.irontec.com/voz-ip/ivoz
