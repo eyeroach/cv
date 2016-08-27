@@ -1,11 +1,12 @@
 
 # Lic. Lavizzari Torino, Marcelo
+
 ![Foto](https://avatars3.githubusercontent.com/u/6438747?v=3&u=c10551d9bb91fae6039d282d39c3c2669efc97c0&s=140)
 
 - Lugar de nacimiento: San Martin, Mendoza, Argentina
 
-- [@eyeroach][twitter]
-- [marcelolavizzari@gmail.com][e-mail]
+[@eyeroach][twitter]
+[marcelolavizzari@gmail.com][e-mail]
 
 
 
@@ -30,9 +31,9 @@ Soy administrador de bases de datos y desarrollador de sistemas, nacido en 1969.
 
 
 ### Lenguajes
-- English: *2.2*.
-- Frances: *Curso segundo Nivel.
-- Aleman: Nivel 1
+- Ingles: Nivel *2 ( Intercultural, Mendoza )
+- Frances: *Cursando segundo Nivel (Intercultural, Mendoza)
+- Aleman: Nivel 1 (Intercultural, Instituto Goethe)
 - Español: *Lenguaje Nativo*.
 
 
@@ -149,7 +150,7 @@ Soy administrador de bases de datos y desarrollador de sistemas, nacido en 1969.
 [1996][2014]*
 
 - Creación primer sitio en internet del Servicio Penitenciario Mendoza
-- http://www.losandes.com.ar/noticia/puntonet-87262 (1 de octubre de 2003)
+ [http://www.losandes.com.ar/noticia/puntonet-87262 (1 de octubre de 2003)*]
 - Desarrollo y administración de base de datos de personas privadas de su libertad ( ingreso, condena, tiempo de detención,
 - conducta, concepto, trabajo, educación, sanidad, psiología, trabajo social, etc.)
 - Desarrollo y administración de la primer base de datos de RR.HH. del Servicio Penitenciario.
@@ -198,7 +199,7 @@ Soy administrador de bases de datos y desarrollador de sistemas, nacido en 1969.
 - Docker
 - Heroku
 - Rackspace
-> **Skills:**linux
+- **Skills:**linux
 
 
 ## Bases de datos  
@@ -207,7 +208,7 @@ Soy administrador de bases de datos y desarrollador de sistemas, nacido en 1969.
 - PostgreSQL
 - MongoDB y redis
 
-> **Skills:**Administrar Base de Datos (productivas y de prueba).Mejorar y optimizar las bases de datos. .Soporte Técnico (implemetación de soluciones).
+- **Skills:**Administrar Base de Datos (productivas y de prueba).Mejorar y optimizar las bases de datos. .Soporte Técnico (implemetación de soluciones).
 Optimización y tunning de procesos de extracción y consulta de información.Monitorear y probar el performance de las bases de datos.Conocimientos en Administración y
 Configuración de Storage para Bases de Datos.
 
@@ -218,22 +219,24 @@ Configuración de Storage para Bases de Datos.
 
 
 - Creación de radio-escuela aires de cacheuta, Complejo Almafuerte
-- [www.myspace.com/radioairesdecacheuta]
+ [www.myspace.com/radioairesdecacheuta]
 - Creación de TV Abierta Almafuerte ( primer canal de televisión en una carcel, en sudamerica )
-- [ http://archivo.losandes.com.ar/notas/2011/5/27/penal-almafuerte-primero-canal-propio-570691.asp]
+ [ http://archivo.losandes.com.ar/notas/2011/5/27/penal-almafuerte-primero-canal-propio-570691.asp]
 - Revista Fuertes de Alma, escrita por personas privadas de su libertad.
-- [ https://issuu.com/marcelolavizzari/docs/revistafuertesdealmanro4]
+ [ https://issuu.com/marcelolavizzari/docs/revistafuertesdealmanro4]
 - Talleres de recreación: http://www.mdzol.com/nota/331379-la-vida-es-una-tremenda-porqueria-tragica-pero-que-hermosa/
-- [ www.myspace.com/poblacionhiphop]
+ [ www.myspace.com/poblacionhiphop]
 - Presentación Impresora 3D, para el desarrollo de productos artesanales creados por personas privadas en libertad ( sin desarrollarse )
 
 
-* Continua búsqueda y aprendizaje.
-* Presencia en variedad de proyectos, tecnológicos, educativos, socio.comunitarios.
-* Flexibiidad para aprender y trabajar con diferentes lenguajes de programación, tecnologías y arquitecturas.
-* Enamorado y casado de por vida, con linux.
-* Documentación y demostración de productosDocumentation.
-* Otro nuevo amor,de estos últimos años, el hardware open-source (arduino, rasberry pi), su utilización en proyectos comunitarios.
+# Filosofía
+
+- Continua búsqueda y aprendizaje
+- Presencia en variedad de proyectos, tecnológicos, educativos, socio.comunitarios.
+- Flexibiidad para aprender y trabajar con diferentes lenguajes de programación, tecnologías y arquitecturas.
+- Compromiso con linux y el softwarelibre.
+- Documentación y demostración de productos.
+- Estudio de las nuevos avances del hardware open-source (arduino, rasberry pi), su utilización en proyectos comunitarios.
 
 
 ---
